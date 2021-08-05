@@ -2,6 +2,7 @@
 
 namespace AdvancedNUnit
 {
+
     [TestFixture]
     [Ignore("Not using these tests yet")]
     public class CounterTests
